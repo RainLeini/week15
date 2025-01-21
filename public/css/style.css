@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(255, 234, 127);
+    background-color: rgb(249, 132, 96);
     font-family: Arial, sans-serif;
 }
 
@@ -10,11 +10,35 @@ h1 {
 .movie-poster {
     max-width: 100%;
     height: auto;
+    text-align: center;
+    
 }
+
+
 
 .chat-container {
     position: fixed;
     bottom: 0;
     right: 0;
     
+}
+
+.movie-card{
+    text-align: center;
+
+}
+.container{
+    text-align: center;
+}
+
+.movie-poster-container{
+    text-align: center;
+}
+
+.movie-info-actions{
+    text-align: center;
+}
+
+.footer{
+    text-align: center;
 }
