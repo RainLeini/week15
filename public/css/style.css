@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(255, 234, 127);
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: rgb(0, 139, 67);
+}
+
+.movie-poster {
+    max-width: 100%;
+    height: auto;
+}
