@@ -12,7 +12,7 @@ const API_KEY = '4ca94f8b470d7e34bd3f59c3914295c8';
 const BASE_URL = 'https://api.themoviedb.org/3';
 
 app.get('/', (req, res) => {
-    const url = `${BASE_URL}/movie/550988?api_key=${API_KEY}`;
+    const url = `${BASE_URL}/movie/550988?api_key=cc6f9d1b`;
     axios.get(url)
         .then(response => {
             const data = response.data;
